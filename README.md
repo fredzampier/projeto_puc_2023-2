@@ -6,19 +6,23 @@
 
 `SEMESTRE`02/2023
 
-Projeto de Aplicação Web direcionado para motocicletas, que visa auxiliar oficinas e motociclistas na manutenção preventiva e conserto dos veículos. Através de uma plataforma própria para inclusão de dados pela oficina, acesso rápido ao histórico de dados de suas motos pelo cliente e a facilidade na comunicação entre ambos, o projeto possibilita um suporte de navegação mais adequado e eficiente aos seus usuários e atende as expectativas dos que buscam mais atenção nos cuidados com suas motos.
+Projeto direcionado para doações em geral, que visa auxiliar Ong´s de todo Brasil, na missão de criar um país mais solidário, facilitando esse processo de doação entre empresas e as Organizações não governamentais. Através de uma plataforma própria para inclusão de dados pela Ong e redes de supermercado, acesso rápido a localização de ambas às partes e a facilidade na comunicação entre ambos, o projeto possibilita um suporte de navegação mais adequado e eficiente aos seus usuários e atende as expectativas dos que buscam maior ampliação nessa rede de ajuda aos mais carentes.
 
 ## Integrantes
 
-* Arthur Wilson de Sousa
-* Cheyenne Fontes de Souza
-* Igor Antônio de Oliveira Lloyd 
-* Renato Cacildo Junior 
-* Rodolfo Cícero Lacerda Lana
+* Arthur de Oliveira Viotti 
+* Cheyenne Natane Fontes de Souza 
+* Frederico Arleo Rezende Zampier 
+* Gustavo Santos da Silva 
+* Juliano Cesar Santos Cruz 
+* Lizandra Ruiz Cavalcante dos Santos 
+* Lucas Chagas de Oliveira 
+* Mailson da Silva Costa 
+* Marco Antonio de Oliveira Costa Junior 
 
 ## Orientador
 
-* Fabiano Costa Teixeira 
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
