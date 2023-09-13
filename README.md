@@ -1,4 +1,4 @@
-# Aplicação Web de assistência no controle de revisão de motocicletas
+# Conexão Alimentar: Plataforma de Doação de Alimentos Excedentes.
 
 `CURSO`Tecnologia em Sistemas para Internet.
 
