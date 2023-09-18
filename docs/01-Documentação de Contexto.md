@@ -1,64 +1,50 @@
 # Introdução
 
-Milhões de brasileiros possuem motocicletas e a revisão e manutenção desses veículos é algo comum na vida dessas pessoas, mas, apesar disso, muitas enfrentam dificuldades com essa atividade, seja devido a desorganização ou a falta de tempo.
+No Brasil, cerca de 30% do alimento produzido por restaurantes e supermercados é desperdiçado por passar da validade ou por não poder ser consumido de forma imediata. Nos supermercados, por exemplo, no último ano, foram desperdiçados cerca de R$ 3,9 bilhões em frutas, legumes, verduras e produtos das seções de padaria, peixaria e açougue. 
 
-Com o objetivo de solucionar essa dor, desenvolvemos um aplicativo cujo objetivo é ajudar o motociclista a ter um controle melhor das revisões do seu veículo. Dessa forma, ele não precisará de se preocupar em lembrar quando foi a última revisão do automóvel e nem de quando deverá ser realizada a próxima. Tudo isso fica por conta do aplicativo que armazena o histórico das revisões e gera um lembrete com as datas futuras.
+Em contrapartida, aproximadamente 20 milhões de pessoas estão enfrentando problemas relacionados à fome em todo território nacional, estes alimentos que são descartados, em sua maioria, vão para aterros e lixões, tendo um fim que poderia ser diferente. 
 
-O sistema também mostra o histórico das peças trocadas e o preço pago pelo serviço prestado. Tudo isso com o objetivo de organizar e aumentar o controle que os motociclistas têm sob o seu veículo.
+Diante disso, torna-se fundamental que haja uma plataforma de conexão das ONGs e projetos sociais relacionados a fome com os restaurantes e supermercados que normalmente destinam esses alimentos para os aterros e lixões para que tenhamos menos desperdícios de alimentos. Dessa forma, as ONGs e projetos poderão ter mais recursos para ajudar as pessoas necessitadas, enquanto os restaurantes e supermercados terão a sua imagem cada vez mais valorizada por participar desses projetos. 
 
 
 ## Problema
 
-Qual a importância das aplicações para web no controle de revisão de motocicletas atualmente?
-
-Muitas pessoas possuem dificuldade em gerenciar a manutenção de suas motocicletas, seja por falta de tempo ou de conhecimento. Frequentemente elas esquecem as datas em que é preciso levar suas motos até uma oficina para fazer revisão, dificilmente lembram-se do histórico de manutenções em seus veículos ou valores gastos com isso e também podem não perceber notificações de mensagens da oficina que está prestando o serviço, visto que é comum que essas mensagens sejam enviadas por whatsapp, que atualmente é o meio de comunicação em comum mais utilizado para diversos assuntos entre as pessoas causando uma grande demanda de mensagens para se atentar. Isso gera problemas como: manutenções em atraso, dificuldade na comunicação entre o cliente e a oficina, falta de conhecimento sobre a situação atual do veículo por falta de histórico acessível, entre outros.  
-
-Para tentar solucionar tais questões as pessoas recorrem a aplicativos que ajudam tanto na organização, como disponibilizando um histórico e prevendo datas em que haverá necessidade de revisões no veículo, quanto nos envios de lembretes e notificações sobre o assunto.
+O desperdício de alimentos é um problema global que tem consequências ambientais, econômicas e sociais significativas. Enquanto isso, muitas comunidades enfrentam a escassez de alimentos e a fome, especialmente em contextos de vulnerabilidade social. Supermercados, restaurantes e outras empresas frequentemente se deparam com excedentes de alimentos próximos ao vencimento, que poderiam ser direcionados para ajudar aqueles que mais precisam. 
 
 ## Objetivos
 
- - Ajudar as pessoas a cuidar melhor dos seus veículos.
- 
- - Diminuir a ansiedade do motorista de ter que lembrar quando será a próxima revisão.
- 
- - Melhorar o controle que o motorista possui a respeito do próprio automóvel.
- 
- - Ajudar a diminuir os acidentes de trânsito causados pela falta de manutenção preventiva.
- 
- - Melhorar a comunicação entre o usuário e a oficina.
- 
+O objetivo geral deste trabalho é a criação de uma plataforma que conecte restaurantes, supermercados e empresas que possuam alimentos excedentes: “indivíduos que passaram a produzir alimentos em um grande volume, maior do que o seu próprio consumo, de modo que começou a sobrar comida”. 
 
+Para manter uma alta taxa de lucro, o capitalismo necessita explorar a força de trabalho, diminuindo os salários ou aumentando a produção. 
 
+Nesse sentido, de produção acima do limite, devemos nos preocupar com a produção de alimentos. Sendo assim, a nossa plataforma deve permitir conectar empresas a instituições de caridade e pessoas necessitadas. 
+
+Como objetivos específicos, podemos ressaltar: 
+Fornecer funcionalidades que permitam a interação entre as empresas e as pessoas necessitadas. 
+
+Possibilidade de um novo meio de comunicação de pequenas/médias empresas com a finalidade de melhorar a comercialização de seus produtos e/ou o bom uso de seus serviços 
+
+Integrar o canal mediador com as mídias sociais; 
+Tornar fácil e justa a conexão entre empresa e necessitados. 
+ 
 ## Justificativa
 
-As aplicações para web têm sido frequentemente utilizadas como fonte de ajuda, em diversas áreas, por grande parte da população. Devido ao aumento constante no número de usuários de motos, atualmente existem muitos aplicativos na área de mecânica desenvolvidos para auxiliar motociclistas e oficinas no gerenciamento desses veículos em variados assuntos. 
+A fome é um problema que afeta diversas nações, cada uma com sua realidade, suas etnias e suas trajetórias históricas. No Brasil, a fome é um problema crônico. Segundo a ONU, estima-se que 21 milhões de brasileiros não tenham acesso diário a alimentos. Além disso, cerca de 70,3 milhões vivem em situação de insegurança alimentar, o que significa que não têm acesso regular, adequado ou suficiente a alimentos nutritivos e seguros para suprir suas necessidades básicas. Recentemente, com base em dados coletados pela FAO (Organização das Nações Unidas para Alimentação e Agricultura), ficou evidente que essa situação não tem melhorado em nosso país; pelo contrário, nos últimos três anos, a fome no Brasil tem se agravado. 
 
-Ter uma moto conservada e em bom funcionamento hoje em dia significa segurança para o condutor, redução de custos e acima de tudo a redução no número de acidentes de trânsito causados por falhas mecânicas.
+Os impactos sociais da fome são devastadores. A subnutrição é uma das consequências mais diretas, afetando a saúde e a qualidade de vida das pessoas. A falta de acesso a alimentos nutritivos resulta em problemas de crescimento e desenvolvimento, especialmente em crianças, prejudicando o desenvolvimento infantil adequado. Isso não apenas compromete a saúde a curto prazo, mas também afeta o potencial de aprendizado e crescimento dessas crianças, perpetuando o ciclo da pobreza. Além disso, a fome tem efeitos generalizados na sociedade, aumentando as disparidades sociais e econômicas. 
 
-Observando o cenário atual e a alta demanda em busca de aplicativos de auxílio no gerenciamento de motocicletas, faz-se necessário o desenvolvimento de um sistema exclusivamente voltado para manutenções preventivas desses veículos, que agregue mais valor ao proprietário e a motocicleta, possibilitando que o usuário da moto tenha acesso um canal de contato rápido e prático com a oficina ou mecânico, e permitindo-lhe a organização necessária para que o esquecimento ou a falta de informação não impeçam que seu veículo esteja com as revisões sempre em dia.
+Por outro lado, existem dados que comprovam que um dos grandes agentes desperdiçadores são as redes de supermercados. A Associação Brasileira de Supermercados, em parceria com a Fundação Instituto de Administração, coletou dados que incluem cerca de 2.335 supermercados no país. Apenas em frutas, verduras e legumes, o desperdício atinge R$ 1,8 bilhão. Isso ocorre devido a problemas na logística, entre outras causas, como falta de conhecimento no manejo, mau acondicionamento no transporte e estoque e embalagens mal planejadas. 
 
-Segundo dados do DataSUS, cerca de 32.879 pessoas morreram em decorrência de acidentes de trânsito no ano de 2019. Fonte: Agência Senado
-
-https://www12.senado.leg.br/noticias/materias/2021/09/24/brasil-precisa-agir-para-reduzir-mortes-no-transito-alertam-participantes-de-sessao-especial#:~:text=Estat%C3%ADsticas%20com%20rosto,decorr%C3%AAncia%20de%20acidentes%20de%20tr%C3%A2nsito.
-
-Uma das principais causas de colisões em rodovias federais foram os defeitos mecânicos. Fonte: Auto Papo - UOL
-
-https://autopapo.uol.com.br/noticia/acidentes-transito-falta-manutencao/
+Tendo isso em vista, foi necessária a criação de uma aplicação que conecte aqueles que mais necessitam com empresas que, em sua linha de produção, têm alimentos excedentes, independente do motivo. Isso facilitará o acesso e a comunicação entre ambas as partes, além de trazer visibilidade para a marca que esteja disposta a ajudar causas sociais relacionadas à fome no Brasil. Outro ponto positivo para as empresas é que no Brasil existem leis de incentivos fiscais. Empresas que doam alimentos para entidades de combate à fome, com antecedência mínima de 5 dias antes do vencimento, recebem uma dedução maior no Imposto de Renda de Pessoas Jurídicas, variando de acordo com o volume das doações. 
 
 
 
 ## Público-Alvo
-• Motociclistas de aplicativos que tem o habito de realizar apenas as manutenções corretivas e deixam em segundo plano as preventivas, devido a rotina constante de entregas, com isso sua segurança fica vulnerável e um controle através de aplicativo facilitaria esse domínio. <br>
+Permitir que estabelecimentos comerciais como restaurantes, supermercados e padarias doem alimentos excedentes, tem um amplo público-alvo. Em primeiro lugar, os próprios estabelecimentos comerciais são o principal público desse sistema, usando-o para evitar o desperdício de alimentos ao direcionar seus excedentes para uma causa benéfica. Em segundo lugar, organizações de caridade e pessoas em situação de vulnerabilidade podem se beneficiar, recebendo essas doações para combater a fome. Além disso, voluntários e empresas interessadas em responsabilidade social também são partes importantes desse ecossistema, oferecendo tempo e recursos para apoiar essa causa. 
 
-•	Motociclistas e Motoqueiros de moto clubes que possuem uma moto para o dia a dia e também para o prazer de fazer viagens longas e curtas, necessitam  controlar constantemente as condições mecânicas da sua moto, assim um aplicativo interligado com a oficina mecânica e concessionária facilitaria essa interface.
-<br>
+Esse sistema também pode atrair órgãos governamentais interessados em parcerias para reduzir o desperdício de alimentos e apoiar a segurança alimentar local. Escolas e instituições de ensino podem usar a plataforma para reforçar programas de merenda escolar, enquanto meios de comunicação e grupos de sensibilização podem usá-lo para divulgar informações sobre o desperdício de alimentos e para incentivar a doação.  
 
-• Pequenas concessionárias e Oficinas mecânicas que utilizam planilhas e softwares próprios de controle de manutenção e também de uso de whatsapp como interface de demonstrações e informações da moto com o cliente e necessitam de um aplicativo que facilite essa interação.  <br>
-<h2>Grafico Stakeholders<h2/>
- <img src="../imagens/mapa-stakeholders.png" width="600px" />
-
-
-
+Ao atender às necessidades de cada grupo e respeitar as regulamentações locais, podemos criar uma plataforma altamente eficaz no combate ao desperdício de alimentos e no apoio às pessoas vulneráveis. Isso é essencial para o sucesso contínuo do projeto. A conformidade legal e colaboração entre empresas, instituições de caridade, voluntários e governos são garantidas ao seguir rigorosamente as regras locais. Assim, alinhar ações com as demandas dos usuários e obedecer às diretrizes locais são elementos essenciais para o sucesso desta iniciativa transformadora no enfrentamento do desperdício de alimentos e na ajuda às comunidades necessitadas. 
 
 ## Estado da Arte
   - Moto Manutenção Programada - planilha para ajudar no controle de revisão da moto onde o proprietário alimenta o aplicativo.
