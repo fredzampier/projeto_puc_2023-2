@@ -1,7 +1,7 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+<a><span> Documentação de Especificação</a></span>
 Essa metodologia de trabalho abrangente e colaborativa visa garantir que o sistema de doações para ONGs seja desenvolvido com eficiência, qualidade e atenda às necessidades do cliente, promovendo assim um impacto positivo na sociedade. Tendo uma equipe de desenvolvimento solidária e empática com as pessoas, trabalhando de forma hierárquica e buscando sempre inovações de forma organizada.
 
 ## Controle de Versão
