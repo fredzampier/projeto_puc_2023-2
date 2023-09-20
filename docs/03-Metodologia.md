@@ -36,8 +36,24 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
+A equipe utiliza meios ditos eficientes, tendo escolhido o Trello como base para definição do processo de desenvolvimento e comunicação ágil.
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira:
+
+<li>⦁	Scrum Master: Frederico Arleo Rezende Zampier</li>
+<li>⦁	Product Owner: Gustavo Santos Da Silva</li>
+
+### Equipe de Desenvolvimento:
+<li>Arthur De Oliveira Viotti</li>
+<li>Cheyenne Natane Fontes de Souza</li>
+<li>Juliano Cesar Santos Cruz</li>
+<li>Lizandra Ruiz Cavalcante Dos Santos</li>
+<li>Lucas Chagas de Oliveira</li>
+<li>Mailson Da Silva Costa</li>
+<li>Marco Antonio De Oliveira Costa Junior</li>
+<br>
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
+
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
