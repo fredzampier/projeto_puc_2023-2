@@ -2,14 +2,13 @@
 # Metodologia
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Essa metodologia de trabalho abrangente e colaborativa visa garantir que o sistema de doações para ONGs seja desenvolvido com eficiência, qualidade e atenda às necessidades do cliente, promovendo assim um impacto positivo na sociedade. Tendo uma equipe de desenvolvimento solidária e empática com as pessoas, trabalhando de forma hierárquica e buscando sempre inovações de forma organizada.
 
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+será utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
