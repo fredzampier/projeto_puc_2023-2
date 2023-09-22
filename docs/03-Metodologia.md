@@ -19,7 +19,7 @@ O projeto segue a seguinte convenção para o nome de branches:
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
-- `documentation`: melhorias ou acréscimos à documentação
+- `desenvolvimento`: melhorias ou acréscimos à documentação
 - `bug`: uma funcionalidade encontra-se com problemas
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
@@ -49,8 +49,17 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
+### Gestão de construção
+
+Aqui está uma parte do processo administrativo, onde fica determinado o papel que cada grupo irá desempenhar de acordo com as demandas.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e2-proj-front-t1-group-4/assets/131036723/ccbc9e8d-3abd-4cd6-98e1-893b364c0cef)
+
+### ETIQUETAMENTO
+
+Aqui fica a especificação de cada grupo ou membro da equipe, para que fique fácil saber a função de cada um no processo administrativo, basta associar essas cores com a imagem do Trello acima.
+
+![Captura de tela 2023-09-22 175414](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e2-proj-front-t1-group-4/assets/131036723/623ad70e-4c29-468c-9e82-dd1abbae13ce)
 
 ### Ferramentas
 
