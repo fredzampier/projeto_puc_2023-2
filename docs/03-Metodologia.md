@@ -56,11 +56,15 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código (VSCODE).
-- Ferramentas de comunicação (Microsoft Teams, Whatsapp).
-- Ferramentas de desenho de tela (Marvel app).
+| Ambiente                        | Plataforma      | Link de Acesso                                                                                       |
+|---------------------------------|-----------------|------------------------------------------------------------------------------------------------------|
+| Repositório de código fonte     | GitHub          | [Endereço a definir](#)           |
+| Códigos do projeto           | Visual Studio Code   | [Vs Code](https://code.visualstudio.com)   |
+| Projeto de Interface e Wireframes| MarvelApp       | [Link das Telas](https://marvelapp.com)                                                          |
+| Gerenciamento do Projeto        | Trello          | [Trello](https://trello.com/invite/b/q6bUeuNk/ATTI45f906a6b35bb265cc698433da606a469FB92E1F/projeto-web-puc-minas-virtual]) |
 
-O editor de código foi escolhido porque ele possui uma integração com o
+
+O editor de código Visual Studio Code foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
 integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
