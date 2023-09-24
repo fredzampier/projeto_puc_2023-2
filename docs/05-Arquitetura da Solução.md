@@ -15,17 +15,14 @@ Os componentes que fazem parte da solução são apresentados na Figura XX.
 ![Diagrama de Componentes](img/componentes.png)
 <center>Figura XX - Arquitetura da Solução</center>-->
 
-Nossa aplicação segue uma arquitetura front-end reativa baseada no React JS. Aqui está uma visão geral dos componentes principais:
-
-- **Navegador**: O navegador é a interface básica do nosso sistema, onde os usuários interagem com nossa aplicação.
-
-- **Páginas Web**: Criamos páginas web usando HTML, CSS e React JS para implementar as funcionalidades da aplicação. Isso inclui páginas de registro, login, doações e dashboards de usuários.
-
-- **Local Storage**: Para armazenar informações temporárias no navegador, utilizamos o armazenamento local. Por exemplo, podemos armazenar informações sobre doações em andamento ou preferências do usuário.
-
-- **API de Doações**: Estamos considerando o uso de uma API de doações para permitir que os usuários visualizem e façam doações para organizações de caridade. A integração com essa API será feita usando JavaScript.
-
-Essa é a estrutura geral da nossa aplicação, onde os componentes interagem para proporcionar uma experiência de usuário reativa e eficaz.
+A solução em desenvolvimento contará com os seguintes módulos planejados:
+- **Navegador** - A interface básica do sistema
+  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementarão as funcionalidades do sistema.
+   - **Local Storage** - Armazenamento que será mantido no navegador, onde serão implementados bancos de dados baseados em JSON. Os módulos planejados são:
+     - **Doações** - Registros de doações de alimentos
+     - **Beneficiários** - Informações sobre organizações e pessoas beneficiárias das doações
+ - **Doações API** - Plataforma planejada que permitirá o registro e acesso às doações de alimentos.
+ - **Hospedagem** - Local na Internet onde as páginas serão mantidas e acessadas pelo navegador.
 
 <!--A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema
@@ -72,15 +69,15 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-A nossa solução utiliza as seguintes tecnologias:
+A nossa solução está planejada para utilizar as seguintes tecnologias:
 
-- **HTML**: Utilizamos HTML (Hypertext Markup Language) para criar a estrutura básica das nossas páginas web.
+- **HTML**: Planejamos usar HTML (Hypertext Markup Language) para criar a estrutura básica das nossas páginas web.
 
-- **CSS**: O CSS (Cascading Style Sheets) é utilizado para estilizar nossas páginas e torná-las visualmente atraentes.
+- **CSS**: O CSS (Cascading Style Sheets) será utilizado para estilizar nossas páginas e torná-las visualmente atraentes.
 
-- **JavaScript**: Utilizamos JavaScript para tornar nossa aplicação interativa, manipular o comportamento do usuário e realizar validações de entrada.
+- **JavaScript**: Planejamos utilizar JavaScript para tornar nossa aplicação interativa, manipular o comportamento do usuário e realizar validações de entrada.
 
-- **React JS**: Nossa aplicação é construída como uma Single Page Application (SPA) com o auxílio do React JS. O React JS é uma biblioteca JavaScript que nos permite criar interfaces de usuário reativas e dinâmicas.
+- **React JS**: Nossa aplicação está planejada para ser construída como uma Single Page Application (SPA) com o auxílio do React JS. O React JS é uma biblioteca JavaScript que nos permitirá criar interfaces de usuário reativas e dinâmicas.
 
 <!--Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
@@ -89,7 +86,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Para hospedar nossa aplicação web construída com tecnologias HTML, CSS e JavaScript, estamos considerando opções de hospedagem que suportem conteúdo estático. No momento, estamos avaliando opções de serviços de hospedagem de sites.
+Para hospedar nossa aplicação web construída com tecnologias HTML, CSS e JavaScript, estamos planejando considerar opções de hospedagem que suportem conteúdo estático. 
 
 > **Links Úteis**:
 >
