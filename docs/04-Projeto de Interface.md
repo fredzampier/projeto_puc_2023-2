@@ -11,7 +11,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 <img src="https://user-images.githubusercontent.com/85751689/178784169-83185e5c-698e-40e1-baee-d68755fa782b.png"></img><hr>
 
-<img src="https://user-images.githubusercontent.com/85751689/163297668-38d2d5ee-fa94-41b1-881d-96adb59293ee.jpg" style="width: 100%;"></img><br>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e2-proj-front-t1-group-4/blob/main/imagens-docs/pagina-inicial.jpeg?raw=true" style="width: 100%;"></img><br>
 <strong>Interface 1.0:</strong> utilizada para fazer o login.<hr>
 
 <img src="https://user-images.githubusercontent.com/85751689/178797744-fa7192be-0e4a-4f30-8ef6-c2428a8587f6.jpg" style="width: 100%;"></img><br>
