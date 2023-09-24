@@ -1,6 +1,6 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
+<!--<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
@@ -8,28 +8,40 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
 
-Exemplo: 
+Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
 ![Diagrama de Componentes](img/componentes.png)
-<center>Figura XX - Arquitetura da Solução</center>
+<center>Figura XX - Arquitetura da Solução</center>-->
 
-A solução implementada conta com os seguintes módulos:
-- **Navegador** - Interface básica do sistema  
+Nossa aplicação segue uma arquitetura front-end reativa baseada no React JS. Aqui está uma visão geral dos componentes principais:
+
+- **Navegador**: O navegador é a interface básica do nosso sistema, onde os usuários interagem com nossa aplicação.
+
+- **Páginas Web**: Criamos páginas web usando HTML, CSS e React JS para implementar as funcionalidades da aplicação. Isso inclui páginas de registro, login, doações e dashboards de usuários.
+
+- **Local Storage**: Para armazenar informações temporárias no navegador, utilizamos o armazenamento local. Por exemplo, podemos armazenar informações sobre doações em andamento ou preferências do usuário.
+
+- **API de Doações**: Estamos considerando o uso de uma API de doações para permitir que os usuários visualizem e façam doações para organizações de caridade. A integração com essa API será feita usando JavaScript.
+
+Essa é a estrutura geral da nossa aplicação, onde os componentes interagem para proporcionar uma experiência de usuário reativa e eficaz.
+
+<!--A solução implementada conta com os seguintes módulos:
+- **Navegador** - Interface básica do sistema
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
+   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles:
+     - **Canais** - seções de notícias apresentadas
      - **Comentários** - registro de opiniões dos usuários sobre as notícias
      - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
  - **News API** - plataforma que permite o acesso às notícias exibidas no site.
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+ - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador.-->
 
 > **Links Úteis**:
 >
 > - [Whimsical](https://whimsical.com/)
 
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
+<!--Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
@@ -55,19 +67,29 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![Exemplo de UserFlow](img/userflow.jpg)-->
 
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+A nossa solução utiliza as seguintes tecnologias:
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+- **HTML**: Utilizamos HTML (Hypertext Markup Language) para criar a estrutura básica das nossas páginas web.
+
+- **CSS**: O CSS (Cascading Style Sheets) é utilizado para estilizar nossas páginas e torná-las visualmente atraentes.
+
+- **JavaScript**: Utilizamos JavaScript para tornar nossa aplicação interativa, manipular o comportamento do usuário e realizar validações de entrada.
+
+- **React JS**: Nossa aplicação é construída como uma Single Page Application (SPA) com o auxílio do React JS. O React JS é uma biblioteca JavaScript que nos permite criar interfaces de usuário reativas e dinâmicas.
+
+<!--Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+
+Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.-->
 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+Para hospedar nossa aplicação web construída com tecnologias HTML, CSS e JavaScript, estamos considerando opções de hospedagem que suportem conteúdo estático. No momento, estamos avaliando opções de serviços de hospedagem de sites.
 
 > **Links Úteis**:
 >
