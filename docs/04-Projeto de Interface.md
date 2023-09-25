@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-<img src="https://user-images.githubusercontent.com/85751689/178784169-83185e5c-698e-40e1-baee-d68755fa782b.png"></img><hr>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e2-proj-front-t1-group-4/blob/main/imagens-docs/user_flow.svg"></img><hr>
 
 ## Interface 1.0: Página Inicial
 
