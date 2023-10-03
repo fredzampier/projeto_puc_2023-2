@@ -1,27 +1,44 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+<!--<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto-->
 
-## Personas
+## Perfis de usuários
+
+| Perfil | Descrição                                           | Necessidades                                                                                                     |
+|--------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 1      | Donos de empresas do ramo alimentício                | Ser informado sobre instituições e/ou ONGs que precisam de doações de alimentos                                |
+| 2      | Pessoas comuns que desejam ajudar com o que têm      | Ser informado de instituições e/ou ONGs que precisam de doações de alimentos                                    |
+|        | em excesso em casa                                   |                                                                                                                   |
+| 3      | Administradores de ONGs ou Instituições de caridade  | Conectar-se com empresas ou pessoas dispostas a ajudar com alimentos para suprir as necessidades da comunidade |
+|        |                                                       | vulnerável.                                                                                                        |
+
+
+## Histórias de usuários
 
 As personas levantadas para o entendimento do problema são apresentadas na tabela a seguir:
 
-|Foto                | Nome                               |Descrição                       | Motivações          | Frustações | Hobbies, Histórias |
+| Quem                  | O Que                                                       | Por Que                                                             |
+|-----------------------|---------------------------------------------------------------|----------------------------------------------------------------------|
+| Gerente do Supermercado/Varejo | Doar alimentos que serão perdidos por poucas saídas de estoque.<br>Ajudar pessoas necessitadas através de ONGs.<br>Melhorar a imagem da marca do supermercado.<br>Reduzir o imposto de renda da empresa.<br>Evitar desperdício de alimentos. | Contribuir para a comunidade e causar um impacto positivo.<br>Aumentar a reputação da empresa no mercado.<br>Reduzir desperdícios e custos.<br>Cumprir regulamentações de impostos e legislação.<br>Encontrar formas eficientes de doação. |
+| Administrador de ONG  | Encontrar doadores de alimentos.<br>Conseguir alimentos com mais facilidade para doar a pessoas necessitadas.<br>Aumentar o impacto positivo na sociedade ao doar mais alimentos.<br>Reduzir custos relacionados à compra de alimentos para doação.<br>Fazer parcerias para receber doações regulares. | Ajudar comunidades necessitadas.<br>Contribuir para a segurança alimentar.<br>Estabelecer parcerias sustentáveis.<br>Maximizar o alcance e impacto das doações.<br>Reduzir gastos operacionais.<br>Construir relações com doadores regulares. |
+| Pessoa Comum          | Doar alimentos excedentes.<br>Ajudar quem está passando fome.<br>Evitar desperdício de alimento.<br>Ter praticidade e segurança na doação. | Aliviar a fome e ajudar pessoas em situações difíceis.<br>Contribuir para a comunidade local.<br>Reduzir o desperdício de alimentos.<br>Sentir-se parte de uma causa humanitária.<br>Conveniência e segurança no processo de doação. |
+
+<!--|Foto                | Nome                               |Descrição                       | Motivações          | Frustações | Hobbies, Histórias |
 |--------------------|------------------------------------|--------------------------------| ------------------- | ---------- | ------------------ |
-|![bruno](https://user-images.githubusercontent.com/101216578/158676080-0fc2210c-dbf1-44b7-9dab-7948eb461467.jpg)             | Bruno                              | • Têm 55 anos.<br>• É casado com sua esposa Luiza e é padrasto de um adulto de 28 anos de idade.<br>• Utiliza o Whatsapp, Facebook e Instagram.<br>• É apreciador de motos.           | Como admirador de motos, ele tem frequente interesse em vender sua moto para comprar uma mais atualizada, ele faz melhores vendas dependendo da revisão e o estado geral do veículo.| Não ter o histórico de revisões de sua moto gravados dificulta na hora de encontrar bons compradores |  • Ama fazer churrasco com os amigos nos finais de semana e participar de encontros para motoqueiros gosta de rock e sertanejo.<br>• Sua cerveja favorita é a Brahma.                 | 
+|![bruno](https://user-images.githubusercontent.com/101216578/158676080-0fc2210c-dbf1-44b7-9dab-7948eb461467.jpg)             | Bruno                              | • Têm 55 anos.<br>• É casado com sua esposa Luiza e é padrasto de um adulto de 28 anos de idade.<br>• Utiliza o Whatsapp, Facebook e Instagram.<br>• É apreciador de motos.           | Como admirador de motos, ele tem frequente interesse em vender sua moto para comprar uma mais atualizada, ele faz melhores vendas dependendo da revisão e o estado geral do veículo.| Não ter o histórico de revisões de sua moto gravados dificulta na hora de encontrar bons compradores |  • Ama fazer churrasco com os amigos nos finais de semana e participar de encontros para motoqueiros gosta de rock e sertanejo.<br>• Sua cerveja favorita é a Brahma.                 |
 |![natalia](https://user-images.githubusercontent.com/101216578/158676154-c2688be3-c1e9-455a-9628-7717c26bc6a5.jpg)              | Natália                            | • Têm 35 anos de idade.<br>• É secretária e utiliza a sua moto todos os dias para ir para o trabalho.<br>• Utiliza o Instagram, Whatsapp, Waze, Uber, iFood.<br>• Não possui muitos conhecimentos em mecânica.| Natalia sonha com sua independência financeira e ela está trabalhando duro e estudando muito para alcançar esse objetivo.               |    Um dia sua moto parou de funcionar quando ela estava indo trabalhar. Ela acabou chegando atrasada no trabalho e teve que acordar mais cedo por alguns dias para pegar o transporte público e ir trabalhar.<br>O episódio gerou muito estresse, desgaste físico e mental para ela, porque ela chegava em casa tarde e tinha que acordar cedo. Isso fez com que ela não dormisse o suficiente o que acabou afetando no seu humor e produtividade também.        |  • Gosta de festas.<br>• Ama sair com os amigos.<br>• Gosta de estudar finanças e planejamento financeiro.                   |
 |![leoncio](https://user-images.githubusercontent.com/100882909/158489429-c12db4a9-f0d7-4eae-809a-e13e7b70beb9.jpg)            | Leôncio                            | • 23 anos de idade.<br> • Estudante do SENAI de mecânica que entende bem de motocicletas.<br> • Trabalha de entregador de aplicativos (iFood, UberEats, Rappi, Loggy). | Quer se tornar engenheiro mecânico e trabalha duro para continuar estudando.                | Desorganizado e sente falta de ter um controle melhor da manutenção da sua moto.<br> Apesar de entender do assunto, ele é desorganizado com o gerenciamento de veículos.       |     • Gosta de sair com os amigos com a namorada<br> • Jogar futebol.               |
 |<img src="https://user-images.githubusercontent.com/85751689/161864369-28a11450-4c0a-4f15-899c-16b1112c093b.png" width="100%" />| Ana| • Gerente de oficina <br> • Tem 27 anos, solteira, utiliza o whatsapp, instagram, tinder, tik tok, ifood.<br> • Formada em administração e possui uma pós em gestão de pessoas| • Trabalha muito e almeja mais liberdade financeira e de tempo<br> • Adora a profissão deseja ser uma profissional melhor| Tem pouco tempo livre, seu trabalho ocupa muito espaço em sua agenda|Adora ir para festivais sertanejos, faz aulas de dança e quando têm tempo gosta de aprender coisas novas
-|<img src="https://user-images.githubusercontent.com/85751689/161864390-2ca1a6e9-678a-4db8-9b87-47b8705f8393.png" width="100%" />| Igor                       | • Mecânico <br> •  Tem 25 anos, solteiro. <br> • Utiliza o Whatsapp, instagram, tinder, twitter, spotify e youtube no seu tempo livre.  |• Quer sair da casa dos pais <br> • Comprar um carro <br> • Ter mais dinheiro no bolso <br>               | • Tem pouco dinheiro no bolso. <br> • Sente muita pressão no trabalho <br>      |     • Gosta de tomar apreciar bebidas alcoólicas <br> • Praticar esportes <br> • Gosta de ir para festival eletrônicas <br> • Participar de resenha com os amigos <br>   
-|<img src="https://user-images.githubusercontent.com/85751689/161864408-346b5621-2053-4664-ad5f-794ecd55530a.png" width="100%" />| Geraldo                       | • Dono de Mecânica <br> • Tem 60 anos, casado a 40 anos e pai de 5 filhos, utiliza o facebook, whatsapp Ama o seu trabalho e tem uma paixão profunda por veículos  |  Quer expandir seu negócio para várias regiões do Brasil e deixar seu legado para os filhos e netos  | Nenhum dos filhos quis tocar os negócios da família Muita dor de cabeça na empresa  |     • Gosta de colecionar carros e motocicletas, fazer churrasco com a família, apreciar cachaça<br> • Ama jogar sinuca e truco com os amigos
+|<img src="https://user-images.githubusercontent.com/85751689/161864390-2ca1a6e9-678a-4db8-9b87-47b8705f8393.png" width="100%" />| Igor                       | • Mecânico <br> •  Tem 25 anos, solteiro. <br> • Utiliza o Whatsapp, instagram, tinder, twitter, spotify e youtube no seu tempo livre.  |• Quer sair da casa dos pais <br> • Comprar um carro <br> • Ter mais dinheiro no bolso <br>               | • Tem pouco dinheiro no bolso. <br> • Sente muita pressão no trabalho <br>      |     • Gosta de tomar apreciar bebidas alcoólicas <br> • Praticar esportes <br> • Gosta de ir para festival eletrônicas <br> • Participar de resenha com os amigos <br>
+|<img src="https://user-images.githubusercontent.com/85751689/161864408-346b5621-2053-4664-ad5f-794ecd55530a.png" width="100%" />| Geraldo                       | • Dono de Mecânica <br> • Tem 60 anos, casado a 40 anos e pai de 5 filhos, utiliza o facebook, whatsapp Ama o seu trabalho e tem uma paixão profunda por veículos  |  Quer expandir seu negócio para várias regiões do Brasil e deixar seu legado para os filhos e netos  | Nenhum dos filhos quis tocar os negócios da família Muita dor de cabeça na empresa  |     • Gosta de colecionar carros e motocicletas, fazer churrasco com a família, apreciar cachaça<br> • Ama jogar sinuca e truco com os amigos-->
 
 
 
-## Histórias de Usuários
+<!--## Histórias de Usuários
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
@@ -56,9 +73,33 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 > - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)-->
 
-## Requisitos
+### **Requisitos Funcionais:**
+
+| **ID**  | **Descrição**                                                          | **Prioridade** |
+|---------|----------------------------------------------------------------------|-----------------|
+| RF-01   | Disponibilizar cadastro para usuários “doadores”                     | Alta            |
+| RF-02   | Disponibilizar cadastro para usuários “beneficiários”                 | Alta            |
+| RF-03   | Disponibilizar login para usuários “doadores”                         | Alta            |
+| RF-04   | Disponibilizar login para usuários “beneficiários”                     | Alta            |
+| RF-05   | Permitir a visualização de perfis de doadores                         | Média          |
+| RF-06   | Permitir a visualização de perfis de beneficiários                     | Média          |
+| RF-07   | Viabilizar meio de comunicação por mensagem de texto entre usuários   | Baixa          |
+| RF-08   | Visualização de anúncios de doações com filtros e imagens              | Alta            |
+| RF-09   | Elaborar formulários para criação de anúncios                           | Alta            |
+| RF-10   | Desenvolver funções de moderação da plataforma                         | Média          |
+
+### **Requisitos Não-Funcionais:**
+
+| **ID**   | **Descrição**                                                                                                                        | **Prioridade** |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| RNF-01   | A aplicação web deverá ser hospedada em serviços que permitem uma excelente confiança, facilmente escalável e seguro, sem comprometer a usabilidade do mesmo. Foco em desempenho para garantir uma excelente resposta e viabilizado também por meio de uma URL (domínio) próprio, além de SSL para manter ainda mais proteção ao cliente de quaisquer meios. Dentre as opções, é recomendado | Alta            |
+| RNF-02   | O site deverá ser construído com uma interface responsiva para permitir que seu conteúdo seja bem consumido pelo seu usuário em diferentes resoluções e modelos de tela, especificamente celulares e tablets de forma que os elementos nas páginas sejam interativos e de fácil acesso. | Alta            |
+| RNF-03   | O website deverá apresentar um alto nível de contraste entre os elementos visuais da tela. Serão definidos critérios para garantir o contraste adequado entre os textos e as cores de fundo, bem como a escolha de fontes legíveis. | Média          |
+| RNF-04   | O site deverá ser compatível com a maioria dos principais navegadores da atualidade, não restringindo-se à: Google Chrome, Microsoft Edge, Mozilla Firefox e Opera GX. Os recursos e componentes gerais da aplicação não podem ter falhas de uso pelos navegadores aqui citados, devendo a equipe prezar pelo conforto do visitante a plataforma. | Alta            |
+
+<!--## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
@@ -66,7 +107,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Cadastro de perfil do cliente. Nome, veículos, endereço, data de nascimento, telefone, senha, email | ALTA | 
+|RF-001| Cadastro de perfil do cliente. Nome, veículos, endereço, data de nascimento, telefone, senha, email | ALTA |
 |RF-002| Cadastro de veículos: modelo (cor, ano, marca, cilindrada), placa, quilometragem| MÉDIA |
 |RF-003| Cadastro de serviço não permitindo quilometragem e data inferior registrada no último serviço.|ALTA|
 |RF-004| Listar/ exibir histórico das revisões indicando data, custos, veículo e cliente.|ALTA|
@@ -77,9 +118,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Design responsivo | MÉDIA | 
-|RNF-003| Design de interface simples e intuitivo |  MÉDIA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA |
+|RNF-002| Design responsivo | MÉDIA |
+|RNF-003| Design de interface simples e intuitivo |  MÉDIA |
 |RNF-004| Formulário com poucos campos para serem preenchidos | MÉDIA |
 |RNF-005| Segurança dos dados do usuário | ESSENCIAL |
 
@@ -97,7 +138,7 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
   dispositivos iOS e Android).
 Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+todos os aspectos capturados nas Histórias de Usuário foram cobertos.-->
 
 ## Restrições
 
@@ -109,9 +150,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+<!--Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)-->
