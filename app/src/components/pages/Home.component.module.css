@@ -1,0 +1,50 @@
+.formato {
+    display: flex;
+    flex-direction: column;
+}
+
+.texto {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.quadro {
+    display: flex;
+}
+
+.disposicao {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.botoes {
+    width: 300px;
+}
+
+.margem {
+    margin-top: 20px;
+    
+}
+
+.carroseul_margem {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.imagem {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.display_imagens {
+        display: flex;
+        justify-content: space-between;
+}
+

@@ -1,0 +1,20 @@
+.img {
+    max-width: 200px;
+    max-height: 150px;
+    border-radius: 100px;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    background-color: white;
+    border: 1px black ;
+    border-bottom-style: groove;
+    border-radius: 10px;
+    box-shadow: 3px;
+    align-items: baseline;
+    
+}
+

@@ -1,0 +1,20 @@
+.footer{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    
+    
+}
+
+.itens{
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.itens li {
+    margin-right: 10px;
+}
+
